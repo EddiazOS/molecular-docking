@@ -1,13 +1,13 @@
 # Molecular Docking  PLayground - Progress Tracker
 
 ## Etapa 1: Instalación.
-- [ ] A1.1 Mamba enviroment creado*
-- [ ] A1.2 Vina instlado y verificado
-- [ ] A1.3 -PyMOL instlado
-- [ ] A1.4 Estructura de carpetas creada
-- [ ] A1.5 Script de versión ejecutada
+- [x] A1.1 Mamba enviroment creado*
+- [x] A1.2 Vina instlado y verificado
+- [x] A1.3 -PyMOL instlado
+- [x] A1.4 Estructura de carpetas creada
+- [x] A1.5 Script de versión ejecutada
 
-**Fecha Completada** ______________
+**Fecha Completada** 2026-02-26
 
 ## Etapa 2: Preparación de Proteína
 - [ ] 2.1 - PDB descargado (3LFA)
@@ -105,6 +105,6 @@
 ---
 
 ## OVERALL STATUS
-- **% Completado:** _____ / 100%
-- **Última actualización:** _______________
+- **% Completado:** 15% / 100%
+- **Última actualización:** 2026-02-26
 - **Notas personales:** _______________
