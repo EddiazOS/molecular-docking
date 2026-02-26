@@ -1,0 +1,8 @@
+==== Verificación del Ambiente de Docking ====
+
+AutoDock Vina: AutoDock Vina 7ac2999-mod
+Python: 3.10.19 | packaged by conda-forge | (main, Jan 26 2026, 23:45:08) [GCC 14.3.0]
+numpy: (v2.2.6)
+meeko: (v0.7.1)
+
+=== Verificación completa ===
