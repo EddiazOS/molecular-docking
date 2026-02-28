@@ -7,6 +7,10 @@ print("==== Verificación del Ambiente de Docking ====\n")
 result = subprocess.run(["vina", "--version"], capture_output=True, text=True)
 print(f"AutoDock Vina: {result.stdout.strip() or result.stderr.strip()}")
 
+# Verificar Babel
+result = subprocess.run(["obabel", "-V"], capture_output=True, text=True)
+print(f"Open Babel: {result.stdout.strip() or result.stderr.strip()}")
+
 # Verificar Python
 print(f"Python: {sys.version}")
 
